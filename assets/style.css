@@ -1,0 +1,21 @@
+.navbar { width: 100%; background-color: #080808; }
+.navbar-inner { width: 800px; margin: 0 auto; }
+.content {
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 120px;
+}
+
+.pass-hint { width: 400px; }
+input[type="text"], input[type="password"] { height: 30px; }
+
+.input-xlarge-title { width: 400px; }
+.input-xlarge-content { width: 800px; }
+.input-xlarge-profile { width: 200px; }
+
+.control-label-profile { float: left;
+width: 160px;
+padding-top: 5px;
+padding-right: 10px;
+text-align: right; }
+
