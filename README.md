@@ -1,7 +1,6 @@
 CMS
 ===
 
-My first CMS written in PHP.
 
 <h1>Features</h1>
 - login system
